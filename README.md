@@ -1,5 +1,5 @@
 
-# Exercise 4
+# Solution
 
 This document provides an overview of a potential solution for designing a data pipeline to create a week-over-week report using Google Analytics data. The report aims to offer insights into website traffic trends and key performance indicators for each week. The following sections outline the data extraction, modeling, and automation steps involved in the process.
 
